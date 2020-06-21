@@ -1,0 +1,15 @@
+{
+  "name": "hehe",
+  "version": "1.0.0",
+  "description": "a simple mongo project",
+  "main": "server.js",
+  "dependencies": {
+    "node": "^14.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "xingjian",
+  "license": "ISC"
+}
